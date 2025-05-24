@@ -1,2 +1,6 @@
-# api_avaliaai
-API AvaliaAI – Análise de Usabilidade Comportamental para Ambientes SaaS
+## API AvaliaAI – Análise de Usabilidade Comportamental para Ambientes SaaS
+
+### Instalação
+```python
+pip install -r requeriments.txt
+```
